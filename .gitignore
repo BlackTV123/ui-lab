@@ -8,3 +8,9 @@ cypress/cypress/downloads/
 .DS_Store
 .idea/
 .vscode/
+
+# Robot Framework output from practice runs
+robot/output.xml
+robot/log.html
+robot/report.html
+robot/*.png
